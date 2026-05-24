@@ -1,4 +1,4 @@
-@../secondbrain/MEMORY.md
+@MEMORY.md
 
 # security-tools — 保安科工具總專案
 
